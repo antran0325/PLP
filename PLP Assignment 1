@@ -1,0 +1,28 @@
+
+	1. What is the name of your language? 
+		The language that I’m interested in is PHP. 
+	2. When/where was it created, and by whom?  Was it written to address a particular problem or need? 
+	It is created in 1995 by a Danish-Canadian programmer Rasmus Lerdorf. Website creating was much more complicated and hard to bug report back then. PHP helps build much simple, dynamic web applications. 
+	3. Is is primarily structural, functional, scripted, object-oriented, or a combination of these?  Or something else?
+	PHP is primarily scripted because it can be embed PHP into HTML. 
+	4. Is it compiled or interpreted, or a combination?  Does it use a virtual machine? 
+	PHP is an  interpreter. Yes, PHP does use a virtual machine
+	5. What types of programming is your language primarily used for (ex: web sites, video games, mobile devices, parsing, etc.).  If your language is multi-purpose, provide some examples of different projects it's been used for. 
+	PHP is famously known for creating web sites. 
+	6. Search on Github.com for your language: what are the 3 most popular projects (the ones with the most stars) involving your language? 
+	https://github.com/php/web-php
+	https://github.com/php/web-qa
+	https://github.com/php/web-bugs 
+	7. Where will you get information about this language when it's time to start programming in it?  At the end of your assignment, provide a  list of the names of books, website URLs, or any other resources that relate to your language in particular. 
+https://codecourse.com/library 
+https://codeigniter.com/ 
+https://www.lynda.com/ 
+https://www.w3schools.com/
+https://stackoverflow.com/ 
+https://www.codecademy.com/ 
+Learning PHP, MySQL, JavaScript, CSS & HTML5: A Step-by-Step Guide to Creating Dynamic Websites 
+SBN-13: 978-1491949467
+Programming PHP
+ ISBN-13: 978-1565926103
+
+
